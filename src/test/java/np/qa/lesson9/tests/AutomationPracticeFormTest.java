@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
 public class AutomationPracticeFormTest extends TestBase {
-  /*  RegistrationFormPage registrationFormPage = new RegistrationFormPage();
+    RegistrationFormPage registrationFormPage = new RegistrationFormPage();
 
     @Test
     void practiceFormTest() {
@@ -43,5 +43,5 @@ public class AutomationPracticeFormTest extends TestBase {
                 text("scale_1200.jpg"), text("voruyubivay"),
                 text("Uttar Pradesh Agra"));
 
-    }*/
+    }
 }
