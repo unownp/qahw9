@@ -8,7 +8,7 @@ import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selenide.$;
 import static np.qa.lesson9.tests.TestData.*;
 
-public class AutomationPracticeFormTestWithFaker extends TestBase {
+public class AutomationPracticeFormWithFakerTest extends TestBase {
     RegistrationFormPage registrationFormPage = new RegistrationFormPage();
 
     @Test
